@@ -1,6 +1,16 @@
 # Developer-stat-app
 A font-end application that visualizes developers technical and behavioural statistics 
 
+# Table of Content
+
+  * [Introduction](#introduction)
+  * [Collaborators](#collaborators)
+  * [Tech Stacks](#tech-stacks)
+  * [Completed Features](#completed-features)
+  * [On progress Features](#on-progress-features)
+  * [Link to deployed site](#link-to-deployed-site)
+  * [Usage instructions](#usage-instructions)
+
 ## Introduction 
 
 
@@ -23,12 +33,12 @@ As a source of information, i used github,linkedin and twitter api data. Thus, b
 * Git/GitHub
 * Heroku
 
-## completed Features 
+## Completed Features 
 
 * GitHub info's 
 * Linkdin info's
 
-## onprogress Features 
+## On progress Features
 
 * Twitter info's
 * Fact-check 
