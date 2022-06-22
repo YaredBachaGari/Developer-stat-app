@@ -23,10 +23,13 @@ As a source of information, i used github,linkedin and twitter api data. Thus, b
 * Git/GitHub
 * Heroku
 
-## Features 
+## completed Features 
 
 * GitHub info's 
 * Linkdin info's
+
+## onprogress Features 
+
 * Twitter info's
 * Fact-check 
 
