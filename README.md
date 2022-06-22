@@ -8,6 +8,7 @@ A font-end application that visualizes developers technical and behavioural stat
   * [Tech Stacks](#tech-stacks)
   * [Completed Features](#completed-features)
   * [On progress Features](#on-progress-features)
+  * [Demo](#demo)
   * [Link to deployed site](#link-to-deployed-site)
   * [Usage instructions](#usage-instructions)
 
@@ -42,6 +43,8 @@ As a source of information, i used github,linkedin and twitter api data. Thus, b
 
 * Twitter info's
 * Fact-check 
+## Demo
+*images
 
 ## Link to deployed site  
 *(https://inventory-app-mgt.herokuapp.com/)
