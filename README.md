@@ -53,3 +53,6 @@ As a source of information, i used github,linkedin and twitter api data. Thus, b
 
 1. `npm install`
 2. `npm start`
+
+## Acknowledgements
+* Special thanks goto my firm McKinsey & Company as well as Multiverse Coaches (Coach Linda Eng, Dan Sohval, Elvis Garcia and Betsy Bayliss). thank you!!! 
