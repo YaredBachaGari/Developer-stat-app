@@ -48,7 +48,7 @@ As a source of information, i used github,linkedin and twitter api data. Thus, b
 ![GitHubPage](src/images/GitHubPage.png?raw=true "GitHub Page")
 
 ## Link to deployed site  
-*(https://inventory-app-mgt.herokuapp.com/)
+*(https://developers-stat.netlify.app)
 ## Usage instructions
 
 1. `npm install`
