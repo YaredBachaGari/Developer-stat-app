@@ -44,7 +44,8 @@ As a source of information, i used github,linkedin and twitter api data. Thus, b
 * Twitter info's
 * Fact-check 
 ## Demo
-*images
+![Landing](src/images/LandingPage.png?raw=true "Landing Page")
+![GitHubPage](src/images/GitHubPage.png?raw=true "GitHub Page")
 
 ## Link to deployed site  
 *(https://inventory-app-mgt.herokuapp.com/)
